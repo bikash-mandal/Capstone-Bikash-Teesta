@@ -1,0 +1,61 @@
+Scan Number,Diagnosis,nodule_x,nodule_y,nodule_z,diag_bin
+LUNGx-CT001,Benign nodule,135.0,303.0,142.0,0
+LUNGx-CT002,Benign nodule,330.0,348.0,205.0,0
+LUNGx-CT003,Primary lung cancer,374.0,374.0,146.0,1
+LUNGx-CT004,Primary lung cancer,197.0,290.0,41.0,1
+LUNGx-CT005,Primary lung cancer,333.0,356.0,42.0,1
+LUNGx-CT006,Primary lung cancer,381.0,284.0,50.0,1
+LUNGx-CT007,Benign nodule,170.0,355.0,188.0,0
+LUNGx-CT008,Benign nodule,172.0,208.0,139.0,0
+LUNGx-CT009,Benign nodule,175.0,209.0,164.0,0
+LUNGx-CT010,Benign nodule,164.0,163.0,139.0,0
+LUNGx-CT011,Benign nodule,179.0,335.0,56.0,0
+LUNGx-CT012,Primary lung cancer,131.0,360.0,88.0,1
+LUNGx-CT013,Benign nodule,373.0,240.0,91.0,0
+LUNGx-CT014,Primary lung cancer,163.0,212.0,204.0,1
+LUNGx-CT015,Primary lung cancer,353.0,413.0,124.0,1
+LUNGx-CT016,Primary lung cancer,344.0,358.0,62.0,1
+LUNGx-CT017,Benign nodule,354.0,355.0,178.0,0
+LUNGx-CT018,Benign nodule,116.0,242.0,137.0,0
+LUNGx-CT019,Primary lung cancer ,128.0,362.0,131.0,1
+LUNGx-CT020,Benign nodule,379.0,285.0,179.0,0
+LUNGx-CT021,Primary lung cancer ,296.0,267.0,76.0,1
+LUNGx-CT022,Primary lung cancer ,159.0,355.0,68.0,1
+LUNGx-CT023,Benign nodule,332.0,277.0,61.0,0
+LUNGx-CT024,Benign nodule,107.0,284.0,197.0,0
+LUNGx-CT025,Primary lung cancer ,134.0,300.0,214.0,1
+LUNGx-CT026,Primary lung cancer ,427.0,316.0,138.0,1
+LUNGx-CT027,Benign nodule,357.0,250.0,97.0,0
+LUNGx-CT028,Benign nodule,117.0,312.0,135.0,0
+LUNGx-CT029,Benign nodule,179.0,369.0,73.0,0
+LUNGx-CT030,Benign nodule,118.0,310.0,104.0,0
+LUNGx-CT031,Benign nodule,130.0,230.0,70.0,0
+LUNGx-CT032,Primary lung cancer ,392.0,341.0,239.0,1
+LUNGx-CT033,Primary lung cancer ,188.0,312.0,113.0,1
+LUNGx-CT034,Benign nodule,128.0,274.0,150.0,0
+LUNGx-CT035,Benign nodule,154.0,355.0,268.0,0
+LUNGx-CT036,Benign nodule,150.0,392.0,220.0,0
+LUNGx-CT037,Benign nodule,374.0,315.0,62.0,0
+LUNGx-CT038,Benign nodule,184.0,249.0,197.0,0
+LUNGx-CT039,Benign nodule,149.0,380.0,242.0,0
+LUNGx-CT040,Primary lung cancer ,336.0,353.0,189.0,1
+LUNGx-CT041,Primary lung cancer ,107.0,292.0,172.0,1
+LUNGx-CT042,Primary lung cancer ,326.0,391.0,178.0,1
+LUNGx-CT043,Benign nodule,394.0,162.0,177.0,0
+LUNGx-CT044,Primary lung cancer ,136.0,298.0,90.0,1
+LUNGx-CT045,Primary lung cancer ,314.0,216.0,148.0,1
+LUNGx-CT046,Primary lung cancer ,309.0,211.0,61.0,1
+LUNGx-CT047,Primary lung cancer ,199.0,306.0,53.0,1
+LUNGx-CT048,Primary lung cancer ,368.0,312.0,115.0,1
+LUNGx-CT049,Benign nodule,398.0,296.0,71.0,0
+LUNGx-CT050,Primary lung cancer ,385.0,316.0,41.0,1
+LUNGx-CT051,Primary lung cancer ,303.0,297.0,77.0,1
+LUNGx-CT052,Primary lung cancer,135.0,202.0,124.0,1
+LUNGx-CT053,Primary lung cancer,195.0,303.0,213.0,1
+LUNGx-CT054,Primary lung cancer,196.0,336.0,180.0,1
+LUNGx-CT055,Primary lung cancer,223.0,193.0,125.0,1
+LUNGx-CT056,Primary lung cancer,209.0,308.0,56.0,1
+LUNGx-CT057,Benign nodule,396.0,353.0,169.0,0
+LUNGx-CT058,Benign nodule,377.0,234.0,157.0,0
+LUNGx-CT059,Benign nodule,75.0,288.0,235.0,0
+LUNGx-CT060,Benign nodule,192.0,298.0,133.0,0
