@@ -1,5 +1,3 @@
-#Created by: Biswas T.
-
 import os
 
 #pytorch modules
